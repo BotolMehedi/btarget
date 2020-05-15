@@ -34,7 +34,8 @@ Tool Password : botol
 <br/>
 .........................
 <br/>
-PASSWORD LIST FILE : 
+PASSWORD LIST FILE : https://drive.google.com/open?id=1DRs95ebJJFJUHfUwyim32ePK3Xr4VinQ
+<br/>
 .........................
 <br/>
 If You Face any Kind of problem then contact me on Facebook.
