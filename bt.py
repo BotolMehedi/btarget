@@ -1,6 +1,6 @@
 # btarget v1.0
 
-# Coded By BotolMehedi
+# Coded By BotolMehedi choto vai Azmal botol
 
 # If You Wanna Take Credits For This Code, Please Look Yourself Again...
 
